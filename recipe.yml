@@ -1,5 +1,7 @@
 name: Lewis Custom Vanilla Desktop
 id: lewis-desktop
+vibversion: 1.0.0
+
 stages:
 - id: build
   base: ghcr.io/vanilla-os/desktop:main
