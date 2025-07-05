@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  CUSTOM_IMAGE_NAME: Lewis Custom Vanilla Desktop
+  CUSTOM_IMAGE_NAME: lewis-desktop
   BUILDX_NO_DEFAULT_ATTESTATIONS: 1
 
 jobs:
